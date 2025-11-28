@@ -1,3 +1,3 @@
 ### Hi there, I'm Raj Kumawat - aka [Raj Kumawat]
 
-I'm a results-driven Angular developer having 3 years of experience with a strong background in crafting dynamic and efficient web applications. With a relentless passion for web technologies and an insatiable curiosity, I've made it my mission to create seamless and visually stunning user experiences.
+Experienced Full Stack Developer with 5 years of experience in building dynamic, high-performance web applications using Angular, Java, React.js, Vue.js,, JavaScript, TypeScript, MySQL, jQuery, and HTML5/CSS3. Strong focus on optimizing user experiences, enhancing application performance, and delivering scalable solutions.
